@@ -334,6 +334,7 @@ body {
     font-family: "poppins", sans-serif;
     box-sizing: border-box;
     resize: vertical;
+    color: #ccc;
 }
 
 /* -- Button -- */
