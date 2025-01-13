@@ -322,6 +322,7 @@ body {
 .contact-row .message {
     display: flex;
     flex-direction: column;
+    color: #ccc;
 }
 
 .message textarea {
