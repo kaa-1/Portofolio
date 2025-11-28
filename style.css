@@ -110,8 +110,8 @@ body {
 
 /* -- img -- */
 .home-content .home-img img {
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     object-fit: cover;
     object-position: bo;
     border-radius: 50%;
@@ -364,3 +364,4 @@ body {
 }
 /* ===== Contact end ===== */
 /* ===== Content layout end ===== */
+
